@@ -2,7 +2,19 @@ body {
     font-size: 18px;
     line-height: 1.5;
 }
-header, nav, main, footer{
+main {
     margin: 1.25rem auto;
     max-width: width 55px;
+}
+h1 {
+    font-family: 'Amatic SC', cursive;
+
+}
+p {
+    border: 1px solid;
+    padding: ;
+    background-color: #ddd;
+    text-align: justify;
+    font-family: 'Caveat', cursive;
+
 }
