@@ -2,23 +2,3 @@ body {
     font-size: 18px;
     line-height: 1.5;
 }
-
-header {
-    margin: 1.25rem auto;
-    max-width: width 800px;
-}
-
-header {
-    background-color: maroon;
-    color: seashell;
-    text-align: center;
-    padding: auto;
-}
-
-h1 {
-    font-family: 'Amatic SC', cursive;
-}
-
-h2 {
-    font-family: 'Caveat', cursive;
-}
