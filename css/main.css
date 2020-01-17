@@ -14,3 +14,10 @@ header {
     padding: 1rem;
 
 }
+
+img{
+    float: right;
+    margin: 10px;
+    box-shadow: black;
+    
+}
