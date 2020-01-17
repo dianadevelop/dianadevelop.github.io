@@ -3,10 +3,14 @@ body {
     line-height: 1.5;
 }
 
-header, nav, main, footer {
+header,
+nav,
+main,
+footer {
     margin: 1.25rem auto;
-    max-width: 760px;
+    max-width: 1400px;
 }
+
 header {
     background-color: maroon;
     color: seashell;
@@ -15,9 +19,8 @@ header {
 
 }
 
-img{
-    float: center;
+img {
+    float: right;
     margin: 10px;
-    box-shadow: black;
-    
+
 }
