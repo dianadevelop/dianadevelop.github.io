@@ -3,18 +3,9 @@ body {
     line-height: 1.5;
 }
 
-header,
-nav,
-main,
-footer {
+main {
     margin: 1.25rem auto;
-    max-width: width 800px;
-}
-
-header, footer {
-    background-color: maroon;
-    color: seashell;
-    text-align: center;
+    max-width: width 55px;
 }
 
 h1 {
