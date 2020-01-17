@@ -1,17 +1,6 @@
-body {
-    font-size: 18px;
-    line-height: 1.5;
-}
-
-header,
-nav,
-main,
-footer {
+header {
     margin: 1.25rem auto;
-    max-width: width 800px;
-}
-
-header, footer {
+    max-width: width 760px;
     background-color: maroon;
     color: seashell;
     text-align: center;
