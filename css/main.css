@@ -29,5 +29,6 @@ padding: 0.5rem;
 img {
     float: right;
     margin: 10px;
+    border-radius: 25% 10%;
 
 }
